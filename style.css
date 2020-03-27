@@ -11,7 +11,7 @@
 }
 
 
-.container, .container2 > * {
+.container > *, .container2 > * {
    border-radius: 10px;
 }
 
